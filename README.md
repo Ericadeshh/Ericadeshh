@@ -2,7 +2,7 @@
 - 🙏🏽 on God 
 - 💻 Full-stack AI dev,devOps, cyberSec, Network Eng.~Computer Scientist
 - 📫 How to reach me @ericadeshh@gmail.com
-- 🔗 portfolio https://eriqxon.netlify.app/
+- 🔗 portfolio https://eriqxon.netlify.app/ <!--under maintenance>
 - 🙏🏽 Philippians 4:13 - 'I can do all things through Christ who strengthens me'
 
 
