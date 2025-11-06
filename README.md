@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Eric Adegu
-- 🙏🏽 on God 
 - 💻 Full-stack AI dev,devOps, cyberSec, Network Eng.~Computer Scientist
 - 📫 How to reach me @ericadeshh@gmail.com
 - 🔗 portfolio https://erxon.netlify.app/ <!--under maintenance>
