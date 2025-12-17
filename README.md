@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Eric Adegu
-- 💻 Full-stack AI dev,devOps, cyberSec, Network Eng.~Computer Scientist
-- 📫 How to reach me @ericadeshh@gmail.com
-- 🔗 portfolio https://erxon.netlify.app/ <!--under maintenance>
-- 🙏🏽 Philippians 4:13 - 'I can do all things through Christ who strengthens me'
-
+- 👋 Hi, I’m Adegu01
+- 💻 NetDevOps, AI&ML, Cyber Security, Network Engineering
+- 📫 Contact me: ericadeshh@gmail.com
+- 🔗 portfolio https://eriqxon.netlify.app/ <!--under maintenance>
+- 🙏🏽 Philippians 4:13 - 
 
 <!---
 Ericadeshh/Ericadeshh is a ✨ special ✨ repository because its`README.md` (this file) appears on your GitHub profile.
