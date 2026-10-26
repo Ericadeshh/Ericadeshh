@@ -1,6 +1,6 @@
 Adegu01
 
-Full-Stack, DevOps, AI&ML, Cyber Security, Network Engineering 
+Full-Stack, DevOps, AI&ML, Network Engineering 
 
 Contact: ericadeshh@gmail.com
 <!---
